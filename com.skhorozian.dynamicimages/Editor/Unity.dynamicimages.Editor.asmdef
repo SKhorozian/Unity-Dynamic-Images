@@ -1,0 +1,16 @@
+{
+    "name": "Unity.dynamicimages.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1e24907eed60ff44c83e4cb155116ba6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

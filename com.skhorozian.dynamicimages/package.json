@@ -1,0 +1,13 @@
+{
+    "name": "com.skhorozian.dynamicimages",
+    "version": "0.1.0",
+    "description": "Provides a Monobehaviour class that allows you to load images dynamically from the internet to use as textures for objects.",
+    "displayName": "Dynamic Images",
+    "unity": "2020.3",
+    "unityRelease": "3f1",
+    "author": {
+        "name": "Sarkis Khorozian",
+        "email": "khorozian2@gmail.com",
+        "url": "https://www.github.com/skhorozian"
+    }
+}
