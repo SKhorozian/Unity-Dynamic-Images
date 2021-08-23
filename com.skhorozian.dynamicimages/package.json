@@ -3,6 +3,7 @@
     "version": "0.1.0",
     "description": "Provides a Monobehaviour class that allows you to load images dynamically from the internet to use as textures for objects.",
     "displayName": "Dynamic Images",
+	"licensesUrl": "https://github.com/SKhorozian/Unity-Dynamic-Images/blob/main/com.skhorozian.dynamicimages/LICENSE.md",
     "unity": "2020.3",
     "unityRelease": "3f1",
     "author": {
